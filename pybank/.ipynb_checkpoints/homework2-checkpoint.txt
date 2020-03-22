@@ -1,0 +1,5 @@
+Financial Analysis
+Total months = 86
+Total net profit is $38382578
+The greatest profit was in Feb 2012 and was $1,926,159
+The greatest loss was in Sep-2013 and was $-2,196,167
